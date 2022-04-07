@@ -1,19 +1,17 @@
-# AZ-204: Implement Azure security (15-20%)
+# AZ-204: Implement Azure security (20-25%)
 
-## Implement user authentication and authorization
-- Implement OAuth2 authentication
-- Create and implement shared access signatures
-- Register apps and use Azure Active Directory to authenticate users
-- Control access to resources by using Role-Based Access Controls (RBAC)
+## Implement user Authentication and Authorization 
+- Authenticate and authorize Users by using the Microsoft Identity platform
+- Authenticate and authorize Users and Apps by using Azure Active Directory
+- Create and implement Shared Access Signatures (SAS)
 
-## Implement secure cloud solutions
-- Secure app configuration data by using:
-    - App Configuration
-    - KeyVault API
-- Using KeyVault API to manage:
-    - keys
-    - secrets
-    - certificates
+## Implement secure cloud solutions 
+- Secure app configuration data by using App Configuration Azure Key Vault
+- Develop code that uses the following stored in Azure Key Vault:
+    - Keys
+    - Secrets
+    - Certificates
 - Implement Managed Identities for Azure resources
+- Implement solutions that interact with Microsoft Graph
 
 [Return to Table of Contents](README.md)

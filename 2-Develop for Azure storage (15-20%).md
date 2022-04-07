@@ -1,22 +1,18 @@
-# AZ-204: Develop for Azure storage (10-15%)
+# AZ-204: Develop for Azure storage (15-20%)
 
-## Develop solutions that use Cosmos DB storage
-- Select the appropriate API for your solution
+## Develop solutions that use Cosmos DB storage 
+- Select the appropriate API and SDK for a solution
 - Implement partitioning schemes
-- Interact with data using the appropriate SDK
+- Implement partition keys
+- Perform operations on data and Cosmos DB containers
 - Set the appropriate consistency level for operations
-- Create Cosmos DB containers
-- Implement scaling (partitions, containers)
-- Implement server-side programming including:
-    - stored procedures
-    - triggers
-    - change feed notifications
+- Manage Change Feed Notifications
 
-## Develop solutions that use Blob storage
-- Move items in Blob storage between storage accounts or containers
+## Develop solutions that use blob storage 
+- Move items in Blob storage between storage accounts or containers 
 - Set and retrieve properties and metadata
-- Interact with data using the appropriate SDK
+- Perform operations on data by using the appropriate SDK
+- Implement storage policies
 - Implement data archiving and retention
-- Implement hot, cool, and archive storage
 
 [Return to Table of Contents](README.md)

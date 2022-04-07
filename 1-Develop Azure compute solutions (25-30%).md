@@ -1,32 +1,32 @@
 # AZ-204: Develop Azure compute solutions (25-30%)
 
 ## Implement IaaS solutions
-- Provision VMs
-- Configure VMs for remote access
-- Create ARM templates
-- Create container images for solutions by using Docker
+- Provision virtual machines (VMs)
+- Configure, validate, and deploy ARM templates
+- Configure container images for solutions
 - Publish an image to the Azure Container Registry
-- Run containers by using Azure Container Instance
-- Azure Kubernetes Service (AKS) is out of scope
+- Run containers by using Azure Container Instance 
 
-## Create Azure App Service Web Apps
+## Create Azure App Service Web Apps 
 - Create an Azure App Service Web App
 - Enable diagnostics logging
 - Deploy code to a web app
 - Configure web app settings including:
     - SSL
-    - API
+    - API settings
     - Connection strings
-- Implement autoscaling rules, including:
-    - scheduled autoscaling
-    - scaling by operational or system metrics
+- Implement autoscaling rules including:
+    - Scheduled autoscaling
+    - Autoscaling by operational or system metrics
 
-## Implement Azure functions
-- Implement input and output bindings for a function
+## Implement Azure functions 
+- Create and deploy Azure Functions apps
+- Implement input and output bindings for a function 
 - Implement function triggers by using:
-    - data operations
-    - timers
-    - webhooks
-- Implement Azure Durable Functions
+    - Data operations
+    - Timers
+    - Webhooks
+- Implement Azure Durable Functions 
+- Implement custom handlers
 
 [Return to Table of Contents](README.md)
